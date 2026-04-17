@@ -25,4 +25,4 @@ SignalSense is a communication pattern analysis tool designed to track response 
 - Test program and fix errors
 
 ## Notes
-This project will use Python concepts learned in class, such as loops, functions, conditionals, and file handling to store and analyze communication data.
+This project will use Python concepts learned in class, such as functions, conditionals, and file handling to store and analyze communication data. The goal is to turn communication patterns into something clear and measurable so users can better understand real behavior instead of relying only on assumptions or emotions.
