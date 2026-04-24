@@ -9,3 +9,4 @@ print("Response time recorded:", response_time)
 
 print("Thank you for using SignalSense")
 print("Processing complete")
+print("End of program")
